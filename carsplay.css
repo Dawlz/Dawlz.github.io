@@ -1,0 +1,32 @@
+#photoBox{
+    background-color: rgba(173, 216, 230, 0.500);
+    border: 5px solid black;
+    padding: 5px;
+    margin-left: 25%;
+    width: 50%;
+    height: 500px;
+    text-align: center;
+}
+#photoBox p{
+    display: inline-block;
+    margin-bottom: 5px !important;
+    margin-top: 5px !important;
+    width: 32%;
+    border: 1px solid green;
+}
+#photoBox img{
+    width: 100%;
+    height: 147px;
+}
+.hidden{
+    display: none;
+}
+#instruct{
+    margin-left: 25%;
+}
+#status{
+    margin-left: 30%;
+}
+#winLoss{
+    margin-left: 25%;
+}
